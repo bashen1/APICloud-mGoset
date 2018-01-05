@@ -50,9 +50,13 @@ url:
 -可接受的值(列举了一部分)： 
 
 > App-Prefs:root=General&path=About  //跳转至设置--通用--关于本机
+
 > App-Prefs:root=General&path=ACCESSIBILITY  //跳转至设置--通用--辅助功能
+
 > App-Prefs:root=AIRPLANE_MODE  //跳转至设置--飞行模式
+
 > App-Prefs:root=Bluetooth  //跳转至设置--蓝牙
+
 > App-Prefs:root=General&path=DATE_AND_TIME  //跳转至设置--通用--时间与日期
 > App-Prefs:root=FACETIME  //跳转至设置--FaceTime
 > App-Prefs:root=General   //跳转至设置--通用
