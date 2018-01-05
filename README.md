@@ -111,8 +111,11 @@ url:
 -可接受的值： 
 
 > android.settings.ACCESSIBILITY_SETTINGS  // 跳转系统的辅助功能界面
+
 android.settings.AIRPLANE_MODE_SETTINGS  // 飞行模式，无线网和网络设置界面
+
 android.settings.APPLICATION_DEVELOPMENT_SETTINGS  // 跳转开发人员选项界面
+
 android.settings.APPLICATION_SETTINGS   // 跳转应用程序列表界面
 android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS // 跳转到应用程序界面【所有的】
 android.settings.MANAGE_APPLICATIONS_SETTINGS  // 跳转 应用程序列表界面【已安装的】
